@@ -544,9 +544,10 @@
         background-color: #DBDBDB;
         display: flex;
         align-items: flex-end;
-        padding-left: 20px;
+        /* padding-left: 20px; */
     }
     .footer{
+        padding-left: 30px;
         margin: 53px 16px;
         width: 1440px;
         display: grid;
