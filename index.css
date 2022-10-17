@@ -548,7 +548,7 @@
     }
     .footer{
         /* padding-left: 30px; */
-        margin: 53px 16px;
+        margin: 53px 30px;
         width: 1440px;
         display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr;
