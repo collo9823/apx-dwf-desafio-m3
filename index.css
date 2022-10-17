@@ -544,6 +544,7 @@
         background-color: #DBDBDB;
         display: flex;
         align-items: flex-end;
+        padding-left: 20px;
     }
     .footer{
         margin: 53px 16px;
