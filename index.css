@@ -547,13 +547,14 @@
         /* padding-left: 20px; */
     }
     .footer{
-        padding-left: 30px;
+        /* padding-left: 30px; */
         margin: 53px 16px;
         width: 1440px;
         display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
     .img-footer{
+        padding-left: 50px;
         width: 77px;
         height: 71px;
         grid-column: 1;
@@ -561,6 +562,7 @@
     }
 
     .copyright-text{
+        padding-left: 50px;
         font-family: Roboto;
         font-size: 13px;
         font-weight: 400;
